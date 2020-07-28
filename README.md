@@ -7,7 +7,10 @@
 - Software Engineer at Pitang Agile IT
 - Computer Science Student at Federal University of Pernambuco
 
-![github stats](https://github-readme-stats.vercel.app/api?username=sergiottf&show_icons=true&theme=tokyonight)
+![github stats](https://github-readme-stats.vercel.app/api?username=sergiottf&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioTTF&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
